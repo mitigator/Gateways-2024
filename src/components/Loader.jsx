@@ -1,4 +1,3 @@
-// Loader.js
 import { useEffect } from 'react';
 import gsap from 'gsap';
 import '../animation/Loader.css'

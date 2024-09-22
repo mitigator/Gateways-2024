@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Loader from "./components/Loader";
+import Home from "./components/Home";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -7,7 +8,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 2000);
+    }, 5000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -15,15 +16,21 @@ function App() {
   return (
     <>
       {isLoading ? (
-        <Loader />
+        <div className="gradient gradient-background"
+        style={{ "--degree": `${210}deg` }}>
+          <Loader/>
+          <Home/>
+        </div>
       ) : (
         <div
           className="gradient gradient-background"
           style={{ "--degree": `${210}deg` }}
-        ></div>
+        >
+          <Home/>
+        </div>
       )}
     </>
   );
-}
+} 
 
 export default App;

@@ -5,7 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'bruno-ace': ['"Bruno Ace"', 'sans-serif'],
+      },
+    },
+    colors:{
+      'Hero-text' : '#F0183F',
+      'White' : '#FFFFFF' 
+    }
   },
   plugins: [],
 }
