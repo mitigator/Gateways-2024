@@ -5,7 +5,8 @@ import { navborder } from "../assets/svg";
 const Navbar = () => {
   return (
 
-    <div className='hidden sm:flex relative p-3 mb-10 items-center'>
+    <div className='hidden sm:flex relative p-3 mb-10 items-center  '>
+      
 
       <img src={logo} height={200} width={180} alt='logo' className='mr-4' />
       <div className='relative z-10 text-White flex gap-24 p-4 w-1/3'>

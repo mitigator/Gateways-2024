@@ -1,0 +1,272 @@
+{
+  "events": [
+    {
+      "name": "Astral Aesthetics",
+      "description": "Prepare to embark on an awe-inspiring design odyssey that transcends the boundaries of the ordinary! Join us at Astral Aesthetics, where the captivating convergence of UI/UX design with the captivating mysteries of the cosmos beckons. Embrace the boundless potential of your creative spirit as you venture into the uncharted domains of HTML, CSS, and JavaScript. This is your chance to unleash the full breadth of your artistic prowess, illuminating the digital landscape like a dazzling constellation against the dark expanse. Are you poised and ready to etch your distinctive legacy into the ever-expanding universe of web design? Seize this cosmic opportunity and let your ingenuity shine brighter than the stars!",
+      "number_of_members": "Up to 2 members per team",
+      "prerequisites": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "rounds": [
+        "Round 1: Landing Page Design",
+        "Round 2: Website Replication"
+      ],
+      "instructions": [
+        "Rules will be provided during the event.",
+        "PCs with VS Code will be provided.",
+        "Internet will not be provided."
+      ],
+      "venue": "MCA Lab, Central Block",
+      "prize": {
+        "first": "3000",
+        "second": "2000",
+        "third": "1000"
+      }
+    },
+    {
+      "name": "Capture the Flag",
+      "description": "Dive into the world of ethical hacking and cybersecurity as teams compete to solve challenges and capture flags.",
+      "number_of_members": "Up to 3 members per team",
+      "prerequisites": [
+        "Basic Networking",
+        "Linux",
+        "Scripting"
+      ],
+      "rounds": [
+        "Round 1: Reconnaissance",
+        "Round 2: Exploitation"
+      ],
+      "instructions": [
+        "Use of personal laptops is allowed.",
+        "Internet will be provided."
+      ],
+      "venue": "Security Lab, Main Block",
+      "prize": {
+        "first": "5000",
+        "second": "3000",
+        "third": "2000"
+      }
+    },
+    {
+      "name": "Coding Debugging",
+      "description": "Test your problem-solving skills as you debug faulty code under time constraints.",
+      "number_of_members": "Up to 2 members per team",
+      "prerequisites": [
+        "C/C++",
+        "Java",
+        "Python"
+      ],
+      "rounds": [
+        "Round 1: Syntax Errors",
+        "Round 2: Logical Bugs"
+      ],
+      "instructions": [
+        "All code must be written in provided IDEs.",
+        "No external libraries allowed."
+      ],
+      "venue": "Coding Lab, Tech Block",
+      "prize": {
+        "first": "4000",
+        "second": "2500",
+        "third": "1500"
+      }
+    },
+    {
+      "name": "Hackathon",
+      "description": "Innovate, collaborate, and build real-world solutions in a 24-hour coding marathon.",
+      "number_of_members": "Up to 4 members per team",
+      "prerequisites": [
+        "Any Programming Language"
+      ],
+      "rounds": [
+        "Single Round: Project Development"
+      ],
+      "instructions": [
+        "Ideas must be submitted beforehand.",
+        "Use of any framework is allowed."
+      ],
+      "venue": "Innovation Hub",
+      "prize": {
+        "first": "10000",
+        "second": "7000",
+        "third": "5000"
+      }
+    },
+    {
+      "name": "IOT",
+      "description": "Develop and showcase innovative IoT-based solutions to real-world problems.",
+      "number_of_members": "Up to 3 members per team",
+      "prerequisites": [
+        "Arduino",
+        "Sensors",
+        "Networking"
+      ],
+      "rounds": [
+        "Round 1: Concept Presentation",
+        "Round 2: Prototype Development"
+      ],
+      "instructions": [
+        "Hardware kits will be provided.",
+        "No external components allowed."
+      ],
+      "venue": "IoT Lab, New Block",
+      "prize": {
+        "first": "6000",
+        "second": "4000",
+        "third": "3000"
+      }
+    },
+    {
+      "name": "IT Quiz",
+      "description": "Show off your knowledge of the IT world, tech trends, and computing history in this quiz event.",
+      "number_of_members": "Up to 2 members per team",
+      "prerequisites": [
+        "General Knowledge in IT"
+      ],
+      "rounds": [
+        "Round 1: MCQs",
+        "Round 2: Rapid Fire"
+      ],
+      "instructions": [
+        "No electronic devices allowed.",
+        "Quiz format will be explained before each round."
+      ],
+      "venue": "Auditorium",
+      "prize": {
+        "first": "3000",
+        "second": "2000",
+        "third": "1000"
+      }
+    },
+    {
+      "name": "UI/UX",
+      "description": "Design captivating user interfaces and create memorable user experiences.",
+      "number_of_members": "Up to 2 members per team",
+      "prerequisites": [
+        "Figma",
+        "Adobe XD",
+        "Sketch"
+      ],
+      "rounds": [
+        "Round 1: Wireframe Design",
+        "Round 2: Prototype Development"
+      ],
+      "instructions": [
+        "All tools must be installed beforehand.",
+        "Internet will not be provided."
+      ],
+      "venue": "Design Lab",
+      "prize": {
+        "first": "4000",
+        "second": "2500",
+        "third": "1500"
+      }
+    },
+    {
+      "name": "Gaming",
+      "description": "Compete in a series of popular esports titles for the championship title.",
+      "number_of_members": "Solo or Duo",
+      "prerequisites": [
+        "Game-specific Skills"
+      ],
+      "rounds": [
+        "Round 1: Group Stage",
+        "Round 2: Knockouts"
+      ],
+      "instructions": [
+        "Personal gaming gear is allowed.",
+        "Game selection will be based on voting."
+      ],
+      "venue": "Gaming Zone",
+      "prize": {
+        "first": "5000",
+        "second": "3000",
+        "third": "2000"
+      }
+    },
+    {
+      "name": "IT Manager",
+      "description": "Step into the shoes of an IT manager and solve real-world management problems.",
+      "number_of_members": "Up to 2 members per team",
+      "prerequisites": [
+        "Management Skills",
+        "Problem Solving"
+      ],
+      "rounds": [
+        "Round 1: Case Study",
+        "Round 2: Problem Resolution"
+      ],
+      "instructions": [
+        "Scenarios will be provided during the event.",
+        "No external materials allowed."
+      ],
+      "venue": "Conference Room",
+      "prize": {
+        "first": "4500",
+        "second": "3000",
+        "third": "2000"
+      }
+    },
+    {
+      "name": "Photography",
+      "description": "Capture the essence of the event through your lens.",
+      "number_of_members": "Solo",
+      "prerequisites": [
+        "Camera Equipment"
+      ],
+      "rounds": [
+        "Round 1: Theme-based Capture",
+        "Round 2: On-the-spot Click"
+      ],
+      "instructions": [
+        "Photos must be original and unedited.",
+        "Judging will be based on creativity and relevance to the theme."
+      ],
+      "venue": "Event Grounds",
+      "prize": {
+        "first": "3500",
+        "second": "2000",
+        "third": "1500"
+      }
+    },
+    {
+      "name": "Surprise Event",
+      "description": "Expect the unexpected! A fun and mysterious event that will test your adaptability.",
+      "number_of_members": "Varies per task",
+      "prerequisites": [],
+      "rounds": [
+        "Varies"
+      ],
+      "instructions": [
+        "Details will be revealed during the event."
+      ],
+      "venue": "Mystery Room",
+      "prize": {
+        "first": "2500",
+        "second": "1500",
+        "third": "1000"
+      }
+    },
+    {
+      "name": "Treasure Hunt",
+      "description": "Embark on a thrilling treasure hunt across the campus, solving puzzles and clues along the way.",
+      "number_of_members": "Up to 4 members per team",
+      "prerequisites": [],
+      "rounds": [
+        "Single Round: Clue Solving"
+      ],
+      "instructions": [
+        "All clues must be solved to win.",
+        "Teamwork is essential."
+      ],
+      "venue": "Campus Grounds",
+      "prize": {
+        "first": "4000",
+        "second": "2500",
+        "third": "1500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.event-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    margin-top: 0.5rem;
+    padding-left: 1.25rem;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  

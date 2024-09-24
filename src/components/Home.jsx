@@ -3,6 +3,7 @@ import Technical from './Technical'
 import Theme from './Theme'
 import NonTechnical from './NonTechnical'
 import Navbar from './Navbar'
+import UIUX from '../events/uiux'
 
 const Home = () => {
   return (
@@ -11,8 +12,7 @@ const Home = () => {
         <Hero/>
         <Theme/>
         <Technical/>
-        <NonTechnical/>
-        
+        <NonTechnical/> 
         
     </div>
   )
