@@ -1,5 +1,4 @@
 import React from 'react'
-import Event from '../components/Event'
 
 const UIUX = () => {
   return (
@@ -9,4 +8,4 @@ const UIUX = () => {
   )
 }
 
-export default UIUX;
+export default UIUX

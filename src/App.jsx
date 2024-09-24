@@ -4,7 +4,7 @@ import Loader from "./components/Loader";
 import Home from "./components/Home";
 import About from "./components/About";
 import Capture_The_Flag from "./events/Capture_The_Flag";
-import UIUX from "./events/UIUX";
+import UIUX from "./events/uiux";
 import Codeing_Debugging from "./events/Codeing_Debugging";
 import Iot from "./events/Iot";
 import It_Quiz from "./events/It_Quiz";
