@@ -10,7 +10,7 @@ const Navbar = () => {
 
       <img src={logo} height={200} width={180} alt='logo' className='mr-4' />
       <div className='relative z-10 text-White flex gap-24 p-4 w-1/3'>
-        <Link to="/events" className='text-white hover:text-gray-300 cursor-pointer'>Events</Link>
+        <Link to="/" className='text-white hover:text-gray-300 cursor-pointer'>Events</Link>
         <Link to="/about" className='text-white hover:text-gray-300 cursor-pointer'>About</Link>
         <Link to="/committee" className='text-white hover:text-gray-300 cursor-pointer'>Committee</Link>
 

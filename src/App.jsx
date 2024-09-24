@@ -22,7 +22,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 4000);
+    }, 5000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -30,8 +30,10 @@ function App() {
   return (
     <BrowserRouter>
       {isLoading ? (
-        <div>
+        <div  className="gradient gradient-background"
+        style={{ "--degree": `${210}deg` }}>
           <Loader />
+          <Home/>
         </div>
       ) : (
         <div
@@ -41,7 +43,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
-            <Route path="/events" element={<Event />} />
+           
             <Route path="/capture_the_flag" element={<Capture_The_Flag />} />
             <Route path="/coding_debugging" element={<Codeing_Debugging />} />
             <Route path="/hackathon" element={<Hackathon/>} />

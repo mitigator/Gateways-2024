@@ -30,7 +30,7 @@
   fill-opacity: 0;
   stroke-width: 3px;
   stroke-dasharray: 4500;
-  animation: draw 5s ease;
+  animation: draw 4s ease;
 }
 
 @keyframes draw {
